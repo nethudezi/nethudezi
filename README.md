@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">╔══════════════════════════╗<br>Hi, welcome to my world 🌍💻<br>╚══════════════════════════╝</h1>
+<h1 align="center">╔══════════════════════════╗<br> Hi, welcome to my profile 💻<br>╚══════════════════════════╝</h1>
 
 ###
 
